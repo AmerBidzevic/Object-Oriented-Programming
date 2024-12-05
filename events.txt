@@ -1,0 +1,10 @@
+2024-11-26 18:51:10 | Event Type: Purchase | User ID: 5
+2024-11-29 08:29:52 | Event Type: Login | User ID: 105
+2024-11-30 14:56:37 | Event Type: ViewPage | User ID: 968
+2024-11-30 03:03:39 | Event Type: Logout | User ID: 588
+2024-11-24 21:22:59 | Event Type: Login | User ID: 901
+2024-11-30 21:37:05 | Event Type: Error | User ID: 389
+2024-11-26 07:20:58 | Event Type: Purchase | User ID: 831
+2024-11-24 16:39:42 | Event Type: Login | User ID: 546
+2024-11-30 07:00:26 | Event Type: Logout | User ID: 630
+2024-12-03 22:22:46 | Event Type: Login | User ID: 203
